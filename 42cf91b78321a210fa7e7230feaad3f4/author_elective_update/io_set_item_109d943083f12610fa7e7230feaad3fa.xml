@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>900</order>
+        <sc_cat_item display_value="Claim payment">ae00e9b78361a210fa7e7230feaad391</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 06:44:30</sys_created_on>
+        <sys_id>109d943083f12610fa7e7230feaad3fa</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Step section sets.Claim payment</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Test section">42cf91b78321a210fa7e7230feaad3f4</sys_scope>
+        <sys_update_name>io_set_item_109d943083f12610fa7e7230feaad3fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 06:44:52</sys_updated_on>
+        <variable_set display_value="Step section sets">da5cd8bc83b12610fa7e7230feaad390</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test section">42cf91b78321a210fa7e7230feaad3f4</application>
+        <file_path/>
+        <instance_id>9863785debec6e5456eafddacad0cd61</instance_id>
+        <instance_name>dev311432</instance_name>
+        <name>io_set_item_109d943083f12610fa7e7230feaad3fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>900</order><sc_cat_item display_value="Claim payment">ae00e9b78361a210fa7e7230feaad391</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-26 06:44:30</sys_created_on><sys_id>109d943083f12610fa7e7230feaad3fa</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Step section sets.Claim payment</sys_name><sys_package/><sys_policy/><sys_scope display_value="Test section">42cf91b78321a210fa7e7230feaad3f4</sys_scope><sys_update_name>io_set_item_109d943083f12610fa7e7230feaad3fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-26 06:44:52</sys_updated_on><variable_set display_value="Step section sets">da5cd8bc83b12610fa7e7230feaad390</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-487266499</payload_hash>
+        <record_name>Step section sets.Claim payment</record_name>
+        <reverted_from/>
+        <source>2dad9cb083f12610fa7e7230feaad3fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 06:44:53</sys_created_on>
+        <sys_id>c2addcb083f12610fa7e7230feaad36f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1970b5648390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 06:44:53</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>c6addcb049f12610f0bf51c001cab56e</update_guid>
+        <update_guid_history>c6addcb049f12610f0bf51c001cab56e:-487266499,c2addcb051f126101cd380a313c99b51:-1094184317</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Step section sets.Claim payment">63c6703483752610fa7e7230feaad332</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 08:34:45</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>0b48cdf917e740b0826ee0e2b8a1cb10</sys_id>
+        <sys_metadata>109d943083f12610fa7e7230feaad3fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Step section sets.Claim payment</sys_name>
+        <sys_package/>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test section">42cf91b78321a210fa7e7230feaad3f4</sys_scope>
+        <sys_scope_delete display_value="">f4c9af8f18b240e29b3e5ca8de7588d9</sys_scope_delete>
+        <sys_update_name>io_set_item_109d943083f12610fa7e7230feaad3fa</sys_update_name>
+        <sys_update_version display_value="io_set_item_109d943083f12610fa7e7230feaad3fa">c2addcb083f12610fa7e7230feaad36f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 08:34:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

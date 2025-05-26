@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Claim payment">ae00e9b78361a210fa7e7230feaad391</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 09:05:13</sys_created_on>
+        <sys_id>a801edf78361a210fa7e7230feaad378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Claim payment</sys_name>
+        <sys_package display_value="Test section" source="x_1755686_test_sec">42cf91b78321a210fa7e7230feaad3f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test section">42cf91b78321a210fa7e7230feaad3f4</sys_scope>
+        <sys_update_name>sc_cat_item_category_a801edf78361a210fa7e7230feaad378</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 09:05:13</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test section">42cf91b78321a210fa7e7230feaad3f4</application>
+        <file_path/>
+        <instance_id>9863785debec6e5456eafddacad0cd61</instance_id>
+        <instance_name>dev311432</instance_name>
+        <name>sc_cat_item_category_a801edf78361a210fa7e7230feaad378</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Claim payment">ae00e9b78361a210fa7e7230feaad391</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-23 09:05:13</sys_created_on><sys_id>a801edf78361a210fa7e7230feaad378</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Claim payment</sys_name><sys_package display_value="Test section" source="x_1755686_test_sec">42cf91b78321a210fa7e7230feaad3f4</sys_package><sys_policy/><sys_scope display_value="Test section">42cf91b78321a210fa7e7230feaad3f4</sys_scope><sys_update_name>sc_cat_item_category_a801edf78361a210fa7e7230feaad378</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-23 09:05:13</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>2071948569</payload_hash>
+        <record_name>Can We Help You?.Claim payment</record_name>
+        <reverted_from/>
+        <source>4ecfd1b78361a210fa7e7230feaad3ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 09:05:13</sys_created_on>
+        <sys_id>e801edf78361a210fa7e7230feaad37c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196fc63afb20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 09:05:13</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>ec01edf71561a210cc2f4b85faf5307b</update_guid>
+        <update_guid_history>ec01edf71561a210cc2f4b85faf5307b:2071948569</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Claim payment">4bc6303483752610fa7e7230feaad3d9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 08:34:44</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>00069f38b40e4174801e170e006bf790</sys_id>
+        <sys_metadata>a801edf78361a210fa7e7230feaad378</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Claim payment</sys_name>
+        <sys_package display_value="Test section" source="x_1755686_test_sec">42cf91b78321a210fa7e7230feaad3f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test section">42cf91b78321a210fa7e7230feaad3f4</sys_scope>
+        <sys_scope_delete display_value="">f4c9af8f18b240e29b3e5ca8de7588d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_a801edf78361a210fa7e7230feaad378</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_a801edf78361a210fa7e7230feaad378">e801edf78361a210fa7e7230feaad37c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 08:34:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
