@@ -42,7 +42,7 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>variable_9</name>
+        <name>step_5_question_1</name>
         <not_available_conversation>false</not_available_conversation>
         <order>9</order>
         <post_insert_script/>
@@ -79,14 +79,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-26 12:44:03</sys_created_on>
         <sys_id>04dfe9f883792610fa7e7230feaad3f4</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Step 5 Question 1</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>step_5_question_1</sys_name>
         <sys_package display_value="Test section" source="x_1755686_test_sec">42cf91b78321a210fa7e7230feaad3f4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test section">42cf91b78321a210fa7e7230feaad3f4</sys_scope>
         <sys_update_name>item_option_new_04dfe9f883792610fa7e7230feaad3f4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-27 01:59:07</sys_updated_on>
+        <sys_updated_on>2025-05-27 03:07:27</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>

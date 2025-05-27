@@ -24,35 +24,35 @@
    }
 	
    //Type appropriate comment here, and begin script below
-    g_form.setDisplay('variable_1', false);
-	g_form.setDisplay('variable_2', false);
-	g_form.setDisplay('variable_3', false);
-	g_form.setDisplay('variable_4', false);
-	g_form.setDisplay('variable_5', false);
-	g_form.setDisplay('variable_6', false);
-	g_form.setDisplay('variable_7', false);
-	g_form.setDisplay('variable_8', false);
-	g_form.setDisplay('variable_9', false);
-	g_form.setDisplay('variable_10', false);
+    g_form.setDisplay('step_1_question_1', false);
+	g_form.setDisplay('step_1_question_2', false);
+	g_form.setDisplay('step_2_question_1', false);
+	g_form.setDisplay('step_2_question_2', false);
+	g_form.setDisplay('step_3_question_1', false);
+	g_form.setDisplay('step_3_question_2', false);
+	g_form.setDisplay('step_4_question_1', false);
+	g_form.setDisplay('step_4_question_2', false);
+	g_form.setDisplay('step_5_question_1', false);
+	g_form.setDisplay('step_5_question_2', false);
 	if (newValue == 1) {
-		g_form.setDisplay('variable_1', true);
-		g_form.setDisplay('variable_2', true);
+		g_form.setDisplay('step_1_question_1', true);
+		g_form.setDisplay('step_1_question_2', true);
 	}
 	if (newValue == 2) {
-		g_form.setDisplay('variable_3', true);
-		g_form.setDisplay('variable_4', true);
+		g_form.setDisplay('step_2_question_1', true);
+		g_form.setDisplay('step_2_question_2', true);
 	}
 	else if (newValue == 3) {
-		g_form.setDisplay('variable_5', true);
-		g_form.setDisplay('variable_6', true);
+		g_form.setDisplay('step_3_question_1', true);
+		g_form.setDisplay('step_3_question_2', true);
 	}
 	else if (newValue == 4) {
-		g_form.setDisplay('variable_7', true);
-		g_form.setDisplay('variable_8', true);
+		g_form.setDisplay('step_4_question_1', true);
+		g_form.setDisplay('step_4_question_2', true);
 	}
 	else if (newValue == 5) {
-		g_form.setDisplay('variable_9', true);
-		g_form.setDisplay('variable_10', true);
+		g_form.setDisplay('step_5_question_1', true);
+		g_form.setDisplay('step_5_question_2', true);
 	}
 }]]></script>
         <sys_class_name>catalog_script_client</sys_class_name>
@@ -61,7 +61,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bd04f57083b92610fa7e7230feaad3a8</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Change Section</sys_name>
         <sys_overrides/>
         <sys_package display_value="Test section" source="x_1755686_test_sec">42cf91b78321a210fa7e7230feaad3f4</sys_package>
@@ -69,7 +69,7 @@
         <sys_scope display_value="Test section">42cf91b78321a210fa7e7230feaad3f4</sys_scope>
         <sys_update_name>catalog_script_client_bd04f57083b92610fa7e7230feaad3a8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-26 13:56:39</sys_updated_on>
+        <sys_updated_on>2025-05-27 03:09:46</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>
