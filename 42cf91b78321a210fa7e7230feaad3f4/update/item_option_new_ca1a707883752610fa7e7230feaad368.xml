@@ -49,7 +49,7 @@
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Variable 2</question_text>
+        <question_text>Step 1 Question 2</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -79,14 +79,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-26 08:49:34</sys_created_on>
         <sys_id>ca1a707883752610fa7e7230feaad368</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Variable 2</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Step 1 Question 2</sys_name>
         <sys_package display_value="Test section" source="x_1755686_test_sec">42cf91b78321a210fa7e7230feaad3f4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test section">42cf91b78321a210fa7e7230feaad3f4</sys_scope>
         <sys_update_name>item_option_new_ca1a707883752610fa7e7230feaad368</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-26 12:57:58</sys_updated_on>
+        <sys_updated_on>2025-05-27 02:01:21</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
